@@ -1,5 +1,0 @@
-NEXAR MOBILE — versão web instalável (PWA)
-
-Abra index.html em um navegador para visualizar. Para instalar como aplicativo pela opção "Adicionar à tela inicial", os arquivos precisam estar publicados em um endereço HTTPS. Este pacote não é um APK e não inclui criação automática de contas, acesso a sessões do Discord ou geração de Nitro.
-
-O painel contém status, monitoramento local demonstrativo, contador, registros e campo para salvar a URL de webhook localmente. O webhook não envia mensagens.
